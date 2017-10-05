@@ -6,3 +6,7 @@ Brew
 PIP3
 Git and GitHub
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
